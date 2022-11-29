@@ -13,3 +13,7 @@
  
  # welcome 
  ![Screenshot (30)](https://user-images.githubusercontent.com/82210881/204520261-86c0f5f5-dbd6-4d16-bdd8-f23776330be4.png)
+
+
+# caution -
+Please install-- npm i
